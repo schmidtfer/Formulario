@@ -1,0 +1,39 @@
+h1 {
+    color:rgb(27, 27, 27);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+body {
+    margin-top: 50px;
+    margin: auto 20px;
+    color: black;
+    font-weight: bold;
+    font-size:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(199, 191, 191, 0.658);
+}
+
+form {
+    margin-top: 70px;
+    
+}
+
+
+input {
+    display: block;
+    padding: 10px;
+    width: 20%;
+    margin-left: 20px;
+    resize: none;
+    cursor: pointer;
+    margin-top: 10px; 
+     
+}
+
+#ver{ 
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(128, 121, 121);
+      
+}
